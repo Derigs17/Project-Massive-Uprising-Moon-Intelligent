@@ -13,7 +13,7 @@ const LoginPage = () => {
     console.log('Email:', email);
     console.log('Password:', password);
   };
-
+//comentar
   useEffect(() => {
     // Load the Google API for sign-in
     const script = document.createElement('script');
